@@ -1,5 +1,20 @@
 ## Welcome to GitHub Pages
 
+[Update Info](Update-Info.html)
+
+[Choose Activity](Choose-Activity.html)
+
+[On-Off Reminders](On-Off-Reminders.html)
+
+[On-Off Sugg Activities](On-Off-Sugg-Activities.html)
+
+[Update App](Update-App.html)
+
+[See Tutorial](See-Tutorial.html)
+
+[Share Activities](Share-Activities.html)
+
+
 You can use the [editor on GitHub](https://github.com/Jportillo1/wtp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
